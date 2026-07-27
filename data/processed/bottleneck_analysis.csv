@@ -1,0 +1,93 @@
+Shipping Mode,Order Region,total_orders,late_orders,avg_lead_time,avg_profit,late_rate_pct,is_bottleneck
+First Class,Central Asia,63,63,2.0,18.29,100.0,True
+First Class,East Africa,280,277,2.0,31.73,98.93,False
+First Class,Southern Africa,198,195,2.0,23.14,98.48,True
+First Class,West Africa,463,453,2.0,22.52,97.84,True
+First Class,Southern Europe,1504,1462,2.0,28.05,97.21,False
+First Class,North Africa,486,472,2.0,28.74,97.12,False
+First Class,South Asia,1283,1240,2.0,20.38,96.65,True
+First Class,US Center ,986,951,2.0,25.21,96.45,False
+First Class,East of USA,1089,1050,2.0,21.47,96.42,True
+First Class,Eastern Europe,658,632,2.0,17.95,96.05,True
+First Class,Northern Europe,1418,1361,2.0,21.33,95.98,True
+First Class,Central America,4382,4185,2.0,23.71,95.5,False
+First Class,Southeast Asia,1552,1482,2.0,22.95,95.49,True
+First Class,West Asia,994,947,2.0,22.9,95.27,True
+First Class,Western Europe,4312,4107,2.0,27.16,95.25,False
+First Class,South of  USA ,600,571,2.0,26.05,95.17,False
+First Class,Caribbean,1193,1132,2.0,27.0,94.89,False
+First Class,Eastern Asia,1043,989,2.0,27.47,94.82,False
+First Class,West of USA ,1149,1072,2.0,18.45,93.3,True
+First Class,South America,2311,2154,2.0,25.66,93.21,False
+First Class,Oceania,1366,1270,2.0,24.94,92.97,False
+First Class,Central Africa,300,278,2.0,21.91,92.67,True
+First Class,Canada,184,170,2.0,17.72,92.39,True
+Second Class,Central Asia,117,101,4.21,24.97,86.32,False
+Second Class,South of  USA ,829,673,4.04,25.88,81.18,False
+Second Class,Central Africa,297,241,4.13,22.58,81.14,True
+Second Class,Eastern Asia,1406,1116,4.12,14.22,79.37,True
+Second Class,Caribbean,1631,1277,4.03,21.52,78.3,True
+Second Class,North Africa,617,483,3.98,18.43,78.28,True
+Second Class,Western Europe,5438,4236,4.06,24.41,77.9,False
+Second Class,West Africa,738,570,3.98,17.84,77.24,True
+Second Class,South Asia,1552,1198,4.04,23.4,77.19,False
+Second Class,East Africa,362,279,3.92,24.73,77.07,False
+Second Class,West of USA ,1632,1254,3.99,19.64,76.84,True
+Second Class,Oceania,2035,1562,3.93,21.25,76.76,True
+Second Class,West Asia,1204,921,3.95,19.99,76.5,True
+Second Class,Northern Europe,1953,1489,3.95,23.46,76.24,False
+Second Class,Southern Europe,1698,1293,3.94,20.75,76.15,True
+Second Class,Southeast Asia,1833,1395,3.97,23.98,76.1,False
+Second Class,US Center ,1200,905,3.91,27.75,75.42,False
+Second Class,Canada,166,125,4.03,36.74,75.3,False
+Second Class,South America,2827,2122,4.0,25.4,75.06,False
+Second Class,Central America,5481,4111,3.96,23.32,75.0,False
+Second Class,Eastern Europe,772,578,3.9,23.96,74.87,False
+Second Class,East of USA,1278,956,3.97,25.84,74.8,False
+Second Class,Southern Africa,150,102,3.86,30.17,68.0,False
+Same Day,Southern Africa,75,42,0.0,25.56,56.0,False
+Same Day,North Africa,193,108,0.0,20.59,55.96,False
+Same Day,Southern Europe,569,303,0.0,23.82,53.25,False
+Same Day,South America,776,398,0.0,30.72,51.29,False
+Same Day,Caribbean,451,224,0.0,16.96,49.67,False
+Same Day,South Asia,379,188,0.0,27.96,49.6,False
+Same Day,West of USA ,425,205,0.0,22.02,48.24,False
+Same Day,East of USA,418,200,0.0,25.33,47.85,False
+Same Day,Eastern Asia,406,193,0.0,18.32,47.54,False
+Same Day,Western Europe,1495,708,0.0,20.62,47.36,False
+Same Day,West Asia,279,128,0.0,19.9,45.88,False
+Same Day,Central America,1423,651,0.0,19.51,45.75,False
+Standard Class,Central Africa,1001,429,4.12,20.98,42.86,False
+Same Day,South of  USA ,235,100,0.0,25.89,42.55,False
+Same Day,East Africa,98,41,0.0,13.72,41.84,False
+Standard Class,Central Asia,309,129,4.07,26.9,41.75,False
+Same Day,Southeast Asia,451,184,0.0,28.98,40.8,False
+Same Day,Oceania,647,263,0.0,15.98,40.65,False
+Same Day,Northern Europe,517,206,0.0,26.28,39.85,False
+Standard Class,East of USA,4130,1643,4.06,23.92,39.78,False
+Standard Class,East Africa,1112,439,4.04,25.24,39.48,False
+Standard Class,Eastern Europe,2312,908,4.04,21.63,39.27,False
+Standard Class,Southeast Asia,5703,2236,4.0,22.67,39.21,False
+Standard Class,Oceania,6100,2387,4.01,21.53,39.13,False
+Same Day,US Center ,323,125,0.0,19.18,38.7,False
+Standard Class,Central America,17055,6571,4.01,23.41,38.53,False
+Standard Class,Western Europe,15864,6089,4.0,23.99,38.38,False
+Standard Class,South of  USA ,2381,912,3.98,21.62,38.3,False
+Standard Class,South Asia,4517,1724,3.99,22.81,38.17,False
+Standard Class,South America,9021,3437,3.99,22.21,38.1,False
+Standard Class,Southern Africa,734,278,4.03,28.72,37.87,False
+Standard Class,Northern Europe,5904,2236,3.98,26.43,37.87,False
+Standard Class,US Center ,3378,1271,4.02,21.89,37.63,False
+Standard Class,West Asia,3532,1326,3.99,21.32,37.54,False
+Standard Class,West Africa,2272,851,4.01,25.48,37.46,False
+Standard Class,Eastern Asia,4425,1657,3.98,22.42,37.45,False
+Standard Class,West of USA ,4787,1782,3.97,23.95,37.23,False
+Standard Class,Southern Europe,5660,2071,3.95,25.65,36.59,False
+Standard Class,North Africa,1936,699,3.98,21.14,36.11,False
+Same Day,Eastern Europe,178,64,0.0,19.99,35.96,False
+Same Day,West Africa,223,79,0.0,17.28,35.43,False
+Standard Class,Caribbean,5043,1782,3.96,22.05,35.34,False
+Same Day,Central Africa,79,24,0.0,32.25,30.38,False
+Standard Class,Canada,576,166,3.73,25.76,28.82,False
+Same Day,Canada,33,7,0.0,12.1,21.21,False
+Same Day,Central Asia,64,13,0.0,24.61,20.31,False
