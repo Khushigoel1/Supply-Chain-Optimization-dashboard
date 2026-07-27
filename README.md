@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📌 Project Overview
 
 This project demonstrates how to build a full-stack supply chain analytics pipeline using the DataCo Smart Supply Chain dataset (180,519 order records). It covers everything from raw data cleaning to an interactive Tableau dashboard that visualizes demand forecasts, inventory risk, delivery bottlenecks, and category profitability.
@@ -57,3 +58,6 @@ Build a Streamlit web app as an alternative to Tableau
 Extend bottleneck detection with network graph optimization
 Add anomaly detection on demand spikes using Isolation Forest
 Integrate AI-generated executive summaries via LLM API
+=======
+# Supply-Chain-Optimization-dashboard
+>>>>>>> bf6858cafdba6f502b9dbafb7555b81d233dffa4
